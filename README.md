@@ -22,7 +22,8 @@ Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimen
 1. Crie um fork deste repositório.
 2. Crie uma nova branch com uma descrição significativa: `git checkout -b nome-da-sua-branch`.
 3. Faça suas alterações e commit: `git commit -m "Descrição das alterações"`.
-4. Faça um push para o seu fork: `git push origin nome-da-sua-branch`.
+4. Faça um push para o seu fork: `git push origin funcionalidade-verificacao-saldo
+
 5. Crie uma solicitação pull neste repositório.
 
 ## Licença
